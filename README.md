@@ -33,13 +33,13 @@ as Anaconda uses the idea of environments so as to isolate
 different libraries and versions. As an alternative, you can install
 them from source.
 
-I have also created a notebook `book_recommender_main.ipynb` in this repository which can
+I have also created a notebook `10k_book_recommender_system.ipynb` in this repository which can
 be run on Google Colab without the need to install all the libraries.
 
 ## Running the code
 ### Using Google Colab
-I recommended running the code using `book_recommender_main.ipynb`. This way you
-don't have to install all the libraries listed below as they are
+I recommended running the code using `10k_book_recommender_system.ipynb`. This way you
+don't have to install all the libraries listed above as they are
 already included in Colab. It also provides a free GPU which makes
 training much faster if you don't have a GPU on your computer.
 
@@ -48,7 +48,15 @@ Git [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 ### Using an Integrated Development Environment (IDE)
 Alternatively, you can run the code in `book_recommender_main.py` using
-an IDE.
+an IDE. To do this, you will need [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+installed. Clone this repo to your local machine using `https://github.com/Nicholas-0/10k-book-recommender.git`.
+Then open Git Bash and change the current working directory to the location
+where you want the cloned directory. Finally, type `git clone`, and then
+paste the URL you copied earlier.
+
+`$ git clone https://github.com/Nicholas-0/10k-book-recommender.git`
+
+Press **Enter** to create your local clone.
 
 
 ## Contributing
