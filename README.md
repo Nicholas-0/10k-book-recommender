@@ -5,7 +5,7 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-
+![Logo](Images/Logo.png)
 
 This project is a book recommender system which makes use of machine learning to determine what books a user
 would like based on those that they have previously rated. It is written in Python and created with various libraries such
